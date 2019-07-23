@@ -70,7 +70,6 @@ def generator(range_val):
         self_sum = self_sum + i
     return self_sum
 
-
 range_val = list(range(1 , 5000))
 
 print(generator(range_val))
