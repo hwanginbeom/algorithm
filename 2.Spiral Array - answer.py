@@ -16,9 +16,9 @@ def spiral(nx, ny):
     return s
 
 
-arr_res = spiral(9, 6)
-
+arr_res = spiral(5, 6)
+print(arr_res)
 for arr_i in arr_res:
     for i in arr_i:
-        print('%4d' % i, end='')
+        print('%2s' % i, end='')
     print()
