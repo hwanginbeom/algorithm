@@ -7,18 +7,23 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 #     return n + sum([int(x) for x in str(n)])
 # # str 을 91 이라고 들어오면 9 랑 1 이 들어온다.
 
-sum = 0
 
-for i in range(1, 1000):
-    if 3 * i < 1000:
-        sum = sum + (3 * i)
-    if 5 * i < 1000:
-        sum = sum + (5 * i)
-    if 15 * i < 1000:
-        sum = sum - (15 * i)
+result = sum([n for n in range(1, 1000) if n % 3 == 0 or n % 5 == 0])
 
-print(sum)
+sum2 = 0
 
+for n in range(1, 1000):
+    if n % 3 == 0:
+        sum2 += n
+    if n % 5 == 0:
+        sum2 += n
+    # if n % 15 == 0:
+    #     sum2 -= n
+
+print(result)
+print(sum2)
+
+# >>> result = [num * 3 for num in a if num % 2 == 0]
 
 
 # res = [n for n in range(5000) if n not in sub]

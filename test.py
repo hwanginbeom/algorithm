@@ -1,6 +1,8 @@
-print(3%3)
+def slimp(input):
+    print(input)
+    if input == '2':
+        return input
+    return slimp('2')
 
-a = []
-b=1
-c=2
-a.append(if b==c )
+
+slimp('1')
