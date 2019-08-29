@@ -1,8 +1,2 @@
-def slimp(input):
-    print(input)
-    if input == '2':
-        return input
-    return slimp('2')
 
-
-slimp('1')
+print(([4,4,4]+[1,3,2]))
