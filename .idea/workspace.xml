@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="897e1282-6de0-4e4c-91e7-af484abac763" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/10.algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/10.algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/6.queen-answer.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.queen-answer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,11 +24,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/6.queen-answer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="39" column="41" lean-forward="true" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
+            <state relative-caret-position="364">
+              <caret line="43" column="46" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7.kakao (bakejoon 15943).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="424">
+              <caret line="39" column="47" lean-forward="true" selection-start-line="28" selection-end-line="39" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/8.Repeat Input Typo Verifier kakao(me).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8.Repeat Input Typo Verifier kakao(senior).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/Program Files/Python/Lib/codecs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="320" selection-start-line="320" selection-end-line="320" />
             </state>
           </provider>
         </entry>
@@ -82,12 +119,16 @@
         <option value="$PROJECT_DIR$/6.queen.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/6.queen-answer.py" />
+        <option value="$PROJECT_DIR$/kakao.py" />
+        <option value="$PROJECT_DIR$/8.Repeat Input Typo Verifier kakao.py" />
+        <option value="$PROJECT_DIR$/8.qqqqq.py" />
+        <option value="$PROJECT_DIR$/8.Repeat Input Typo Verifier kakao(me).py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1941" />
-    <option name="y" value="51" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1984" />
+    <option name="y" value="88" />
     <option name="width" value="1726" />
     <option name="height" value="911" />
   </component>
@@ -97,7 +138,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -109,12 +149,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -128,28 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.6.queen-answer">
-    <configuration name="3.LCD Display" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="10.algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\project\10.algorithm\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.LCD Display.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.8.Repeat Input Typo Verifier kakao">
     <configuration name="4.multiples" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="10.algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -213,6 +234,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="8.Repeat Input Typo Verifier kakao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="10.algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\project\10.algorithm\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\algorithm\8.Repeat Input Typo Verifier kakao(me).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="10.algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -256,19 +298,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.3.LCD Display" />
       <item itemvalue="Python.4.multiples" />
       <item itemvalue="Python.5.Slurpy" />
       <item itemvalue="Python.6.queen-answer" />
       <item itemvalue="Python.test" />
+      <item itemvalue="Python.8.Repeat Input Typo Verifier kakao" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.8.Repeat Input Typo Verifier kakao" />
         <item itemvalue="Python.6.queen-answer" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.5.Slurpy" />
         <item itemvalue="Python.4.multiples" />
-        <item itemvalue="Python.3.LCD Display" />
       </list>
     </recent_temporary>
   </component>
@@ -286,22 +328,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1941" y="51" width="1726" height="911" extended-state="0" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29531813" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26492536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.757503" visible="true" weight="0.37065637" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4914712" weight="0.31127983" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7446695" visible="true" weight="0.31236443" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4792111" weight="0.31127983" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4978678" weight="0.324295" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.242497" side_tool="true" visible="true" weight="0.37065637" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.2553305" side_tool="true" visible="true" weight="0.31236443" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -326,6 +368,16 @@
           <url>file://$PROJECT_DIR$/5.Slurpy.py</url>
           <line>94</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/6.queen-answer.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/8.Repeat Input Typo Verifier kakao(me).py</url>
+          <line>18</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -417,6 +469,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/queen-answer.py" />
+    <entry file="file://$PROJECT_DIR$/6.queen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -427,17 +486,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/6.queen.py">
+    <entry file="file://$PROJECT_DIR$/6.queen-answer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="17" selection-end-column="3" />
+        <state relative-caret-position="364">
+          <caret line="43" column="46" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/6.queen-answer.py">
+    <entry file="file://C:/Program Files/Python/Lib/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="39" column="41" lean-forward="true" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
+        <state relative-caret-position="215">
+          <caret line="320" selection-start-line="320" selection-end-line="320" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.Repeat Input Typo Verifier kakao(senior).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.kakao (bakejoon 15943).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="39" column="47" lean-forward="true" selection-start-line="28" selection-end-line="39" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.Repeat Input Typo Verifier kakao(me).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
