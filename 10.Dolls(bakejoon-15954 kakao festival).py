@@ -40,24 +40,28 @@ N개의 수 a1, a2, …, aN이 주어져 있을 때, 통계학에서 (산술) �
             str으로 바꾸면 길이를 잴 수 있고 하나씩 비교 할 수 있다는 걸 명심하자.
             그리고 for else 로 for 문이 종료 되면 else 문이 나오게 끔 만들었다. 파이썬에서만 가능하다.
 """
+import time
+start = time.time()
 
-n_k = input().split(' ')
-value = input().split(' ')
+# n_k = input().split(' ')
+# value = input().split(' ')
+n_k = [10,3]
+value = [1,4,1,5,9,2,6,5,3,5]
 min_deviation = 1
 count = 0
 
-for i in range(int(n_k[1]), int(n_k[0])+1): # k개 이상
-    #i == # 3,4,5
-    for z in range(int(n_k[0]) - i +1): # 순서진행 0번째부터 1 2 번째까지
+for i in range(int(n_k[1]), int(n_k[0])+1):
+    for z in range(int(n_k[0]) - i + 1):
         sum = 0
         deviation = 0
-        for j in range(i): # 0 ~3 4,5,
-            sum += int(value[j + z]) # 값을 다 더한다. 이걸로 평균 구해야 한다.
-        for j in range(i): # 여기서 분산 구한다.
+        for j in range(i):
+            sum += int(value[j + z])
+        for j in range(i):
             deviation += (int(value[j+z]) - (sum / i)) ** 2
-        stan_deviation = (deviation / i) ** 0.5 # 분산에서 제곱근을 넣어 표준편차를 구한다.
-        print(i)
+        stan_deviation = (deviation / i) ** 0.5
         if min_deviation > stan_deviation:
             min_deviation = stan_deviation
 
 print(min_deviation)
+
+print("time :", time.time() - start)  # 현재시각 - 시작시간 = 실행 시간
