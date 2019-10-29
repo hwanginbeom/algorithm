@@ -16,3 +16,21 @@ def fact(n):
     return n * fact(n - 1)
 
 print(fact(10))
+
+
+def fact_1(n):
+
+    if n <= 1:
+        return 1
+
+    return n + fact_1(n-1)
+
+
+print(fact_1(5))
+
+
+def fact_2(n):
+    if n <= 1:
+        return 1
+
+    return n + fact_1(n - 1)
