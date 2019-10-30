@@ -22,7 +22,7 @@ def greatest_common_divisor2(a, b):
         i = i - 1
 
 
-#유클리드
+# 유클리드
 def greatest_common_divisor3(a, b):
     if b == 0:           # 종료 조건
         return a
@@ -35,8 +35,6 @@ def fibonacci1(n):
     if n < 2:
         return 2
     return fibonacci1(n-1) + fibonacci1(n-2)
-
-
 
 
 print(greatest_common_divisor(100, 200))
