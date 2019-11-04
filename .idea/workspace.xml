@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="897e1282-6de0-4e4c-91e7-af484abac763" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="897e1282-6de0-4e4c-91e7-af484abac763" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,15 +10,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/23.seach2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/24.search3.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -48,11 +37,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/27.insert_sort2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="121">
               <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/28.Merge sort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="86">
+              <caret line="18" column="48" lean-forward="true" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -162,12 +160,13 @@
         <option value="$PROJECT_DIR$/25.sort.py" />
         <option value="$PROJECT_DIR$/26.insert_sort.py" />
         <option value="$PROJECT_DIR$/27.insert_sort2.py" />
+        <option value="$PROJECT_DIR$/28.Merge sort.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="383" />
-    <option name="y" value="18" />
+    <option name="x" value="124" />
+    <option name="y" value="26" />
     <option name="width" value="1726" />
     <option name="height" value="935" />
   </component>
@@ -209,28 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.27.insert_sort2">
-    <configuration name="23.seach2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="10.algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\project\10.algorithm\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/23.seach2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.28.Merge sort">
     <configuration name="24.search3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="10.algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -315,6 +293,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="28.Merge sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="10.algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\project\10.algorithm\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/28.Merge sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="10.algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -337,19 +336,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.23.seach2" />
       <item itemvalue="Python.24.search3" />
       <item itemvalue="Python.25.sort" />
       <item itemvalue="Python.26.insert_sort" />
       <item itemvalue="Python.27.insert_sort2" />
+      <item itemvalue="Python.28.Merge sort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.28.Merge sort" />
         <item itemvalue="Python.27.insert_sort2" />
         <item itemvalue="Python.26.insert_sort" />
         <item itemvalue="Python.25.sort" />
         <item itemvalue="Python.24.search3" />
-        <item itemvalue="Python.23.seach2" />
       </list>
     </recent_temporary>
   </component>
@@ -367,7 +366,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="383" y="18" width="1726" height="935" extended-state="0" />
+    <frame x="124" y="26" width="1726" height="935" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32893157" />
@@ -375,8 +374,8 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7345416" visible="true" weight="0.35955057" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.47121534" weight="0.30911064" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7345416" weight="0.35955057" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.47121534" visible="true" weight="0.30836454" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -461,6 +460,11 @@
           <url>file://$PROJECT_DIR$/25.select_sort.py</url>
           <line>8</line>
           <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/28.Merge sort.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -728,6 +732,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="121">
           <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28.Merge sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="18" column="48" lean-forward="true" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
         </state>
       </provider>
     </entry>
