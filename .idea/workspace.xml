@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="897e1282-6de0-4e4c-91e7-af484abac763" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/32.PythonUsage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,8 +51,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/32.PythonUsage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="74" column="42" lean-forward="true" selection-start-line="74" selection-start-column="42" selection-end-line="74" selection-end-column="42" />
+            <state relative-caret-position="450">
+              <caret line="75" selection-start-line="75" selection-end-line="75" />
             </state>
           </provider>
         </entry>
@@ -171,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="28" />
     <option name="y" value="21" />
     <option name="width" value="1726" />
@@ -370,25 +369,42 @@
       <option name="presentableId" value="Default" />
       <updated>1563518786160</updated>
     </task>
+    <task id="LOCAL-00001" summary="20.07.26 | TIL | PythonUsage1">
+      <created>1595762500213</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595762500213</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="28" y="21" width="1726" height="935" extended-state="0" />
+    <frame x="28" y="21" width="1726" height="935" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3415366" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3457383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7345416" visible="true" weight="0.35955057" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7345416" weight="0.35955057" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.47121534" weight="0.30836454" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.6518608" visible="true" weight="0.32958803" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4978678" weight="0.324295" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.26545843" side_tool="true" weight="0.31236443" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.34813926" side_tool="true" visible="true" weight="0.32958803" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -417,6 +433,10 @@
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="right" id="R Packages" order="4" />
     </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="20.07.26 | TIL | PythonUsage1" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.07.26 | TIL | PythonUsage1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -733,6 +753,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/31.quock_sort2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/20.greatest_common_divisor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="665">
@@ -768,17 +795,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/31.quock_sort2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/32.PythonUsage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="74" column="42" lean-forward="true" selection-start-line="74" selection-start-column="42" selection-end-line="74" selection-end-column="42" />
+        <state relative-caret-position="450">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
         </state>
       </provider>
     </entry>
