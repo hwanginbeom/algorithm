@@ -19,6 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     <list default="true" id="897e1282-6de0-4e4c-91e7-af484abac763" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -28,6 +29,9 @@
 =======
     <list default="true" id="897e1282-6de0-4e4c-91e7-af484abac763" name="Default Changelist" comment="" />
 >>>>>>> Stashed changes
+=======
+    <list default="true" id="897e1282-6de0-4e4c-91e7-af484abac763" name="Default Changelist" comment="" />
+>>>>>>> 748a59380810dd128e297f917d3384e048c04f01
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,8 +159,12 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   <component name="RunManager" selected="Python.41.prime numbers">
+=======
+  <component name="RunManager" selected="Python.42.loop1">
+>>>>>>> 748a59380810dd128e297f917d3384e048c04f01
     <configuration name="38.maxNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
 =======
   <component name="RunDashboard">
@@ -215,27 +223,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="40.Mock exam" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="10.algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\project\10.algorithm\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/40.Mock exam.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="41.prime numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="10.algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -249,6 +236,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/41.prime numbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="42.loop1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="10.algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\project\10.algorithm\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/42.loop1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -303,9 +311,8 @@
 <<<<<<< Updated upstream
       <item itemvalue="Python.38.maxNumber" />
       <item itemvalue="Python.39.H-index" />
-      <item itemvalue="Python.40.Mock exam" />
-      <item itemvalue="Python.test1" />
       <item itemvalue="Python.41.prime numbers" />
+<<<<<<< HEAD
 =======
       <item itemvalue="Python.32.PythonUsage" />
       <item itemvalue="Python.37.k_number" />
@@ -313,14 +320,18 @@
       <item itemvalue="Python.39.H-index" />
       <item itemvalue="Python.test1" />
 >>>>>>> Stashed changes
+=======
+      <item itemvalue="Python.test1" />
+      <item itemvalue="Python.42.loop1" />
+>>>>>>> 748a59380810dd128e297f917d3384e048c04f01
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.42.loop1" />
         <item itemvalue="Python.41.prime numbers" />
         <item itemvalue="Python.test1" />
         <item itemvalue="Python.39.H-index" />
         <item itemvalue="Python.38.maxNumber" />
-        <item itemvalue="Python.40.Mock exam" />
       </list>
     </recent_temporary>
   </component>
@@ -366,6 +377,7 @@
         </entry>
       </map>
     </option>
+<<<<<<< HEAD
 =======
   <component name="ToolWindowManager">
     <frame x="184" y="46" width="1149" height="748" extended-state="0" />
@@ -412,32 +424,35 @@
       <window_info anchor="right" id="R Packages" order="4" />
     </layout-to-restore>
 >>>>>>> Stashed changes
+=======
+    <option name="oldMeFiltersMigrated" value="true" />
+>>>>>>> 748a59380810dd128e297f917d3384e048c04f01
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20.07.26 | TIL | PythonUsage1" />
     <option name="LAST_COMMIT_MESSAGE" value="20.07.26 | TIL | PythonUsage1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="886" y="312" key="FileChooserDialogImpl" timestamp="1597021845630">
+    <state x="886" y="312" key="FileChooserDialogImpl" timestamp="1597274357964">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="886" y="312" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597021845630" />
-    <state width="995" height="282" key="GridCell.Tab.0.bottom" timestamp="1597030802673">
+    <state x="886" y="312" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597274357964" />
+    <state width="995" height="282" key="GridCell.Tab.0.bottom" timestamp="1597049208627">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="995" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597030802673" />
-    <state width="995" height="282" key="GridCell.Tab.0.center" timestamp="1597030802673">
+    <state width="995" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597049208627" />
+    <state width="995" height="282" key="GridCell.Tab.0.center" timestamp="1597049208627">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="995" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597030802673" />
-    <state width="995" height="282" key="GridCell.Tab.0.left" timestamp="1597030802673">
+    <state width="995" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597049208627" />
+    <state width="995" height="282" key="GridCell.Tab.0.left" timestamp="1597049208627">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="995" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597030802673" />
-    <state width="995" height="282" key="GridCell.Tab.0.right" timestamp="1597030802673">
+    <state width="995" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597049208627" />
+    <state width="995" height="282" key="GridCell.Tab.0.right" timestamp="1597049208627">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="995" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597030802673" />
+    <state width="995" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597049208627" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
