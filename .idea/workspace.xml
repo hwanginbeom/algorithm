@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="897e1282-6de0-4e4c-91e7-af484abac763" name="Default Changelist" comment="" />
+    <list default="true" id="897e1282-6de0-4e4c-91e7-af484abac763" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,28 +58,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.42.loop1">
-    <configuration name="38.maxNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="10.algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\project\10.algorithm\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/38.maxNumber.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.45.function_development">
     <configuration name="39.H-index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="10.algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,6 +122,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="45.function_development" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="10.algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\project\10.algorithm\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/45.function_development.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="10.algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,19 +186,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.38.maxNumber" />
       <item itemvalue="Python.39.H-index" />
       <item itemvalue="Python.41.prime numbers" />
-      <item itemvalue="Python.test1" />
       <item itemvalue="Python.42.loop1" />
+      <item itemvalue="Python.test1" />
+      <item itemvalue="Python.45.function_development" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.45.function_development" />
         <item itemvalue="Python.42.loop1" />
         <item itemvalue="Python.41.prime numbers" />
         <item itemvalue="Python.test1" />
         <item itemvalue="Python.39.H-index" />
-        <item itemvalue="Python.38.maxNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -248,26 +250,46 @@
     <option name="LAST_COMMIT_MESSAGE" value="20.07.26 | TIL | PythonUsage1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="886" y="312" key="FileChooserDialogImpl" timestamp="1597274357964">
+    <state x="814" y="416" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1597708720312">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="886" y="312" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597274357964" />
-    <state width="995" height="282" key="GridCell.Tab.0.bottom" timestamp="1597049208627">
+    <state x="814" y="416" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597708720312" />
+    <state x="886" y="312" key="FileChooserDialogImpl" timestamp="1597363567041">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="995" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597049208627" />
-    <state width="995" height="282" key="GridCell.Tab.0.center" timestamp="1597049208627">
+    <state x="886" y="312" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597363567041" />
+    <state width="1593" height="232" key="GridCell.Tab.0.bottom" timestamp="1597708698181">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="995" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597049208627" />
-    <state width="995" height="282" key="GridCell.Tab.0.left" timestamp="1597049208627">
+    <state width="1593" height="232" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597708698181" />
+    <state width="1593" height="232" key="GridCell.Tab.0.center" timestamp="1597708698181">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="995" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597049208627" />
-    <state width="995" height="282" key="GridCell.Tab.0.right" timestamp="1597049208627">
+    <state width="1593" height="232" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597708698181" />
+    <state width="1593" height="232" key="GridCell.Tab.0.left" timestamp="1597708698181">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="995" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597049208627" />
+    <state width="1593" height="232" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597708698181" />
+    <state width="1593" height="232" key="GridCell.Tab.0.right" timestamp="1597708698181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1593" height="232" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597708698181" />
+    <state width="1593" height="232" key="GridCell.Tab.1.bottom" timestamp="1597708698790">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1593" height="232" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597708698790" />
+    <state width="1593" height="232" key="GridCell.Tab.1.center" timestamp="1597708698790">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1593" height="232" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597708698790" />
+    <state width="1593" height="232" key="GridCell.Tab.1.left" timestamp="1597708698790">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1593" height="232" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597708698790" />
+    <state width="1593" height="232" key="GridCell.Tab.1.right" timestamp="1597708698790">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1593" height="232" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597708698790" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -328,6 +350,11 @@
           <url>file://$PROJECT_DIR$/30.quick_sort.py</url>
           <line>8</line>
           <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/45.function_development.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="45" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
