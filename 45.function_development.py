@@ -26,6 +26,7 @@ def solution2(progresses, speeds):
             Q.append([-((p-100)//s),1])
         else:
             Q[-1][1]+=1
+    print(Q)
     return [q[1] for q in Q]
 
 progresses = [93, 30, 55, 55]
@@ -34,3 +35,5 @@ speeds = [1, 30, 5, 4]
 
 print(solution2(progresses, speeds))
 print(solution(progresses, speeds))
+
+
