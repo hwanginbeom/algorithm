@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import itertools
 
 def solution(orders, course):
@@ -67,3 +68,15 @@ def solution(orders, course):
 orders = ["ABCDE", "AB", "CD", "ADE", "XYZ", "XYZ", "ACD"]
 course = [2,3,5]
 print(solution(orders, course))
+=======
+a = [1, 3, 2, 4]
+print(sorted(a))
+print(a)
+
+a.sort()
+print(a)
+
+ex = [4]
+a.extend(ex)
+print(a)
+>>>>>>> 42a304d73d1bfb8f76276d68ab5c937374365e70
